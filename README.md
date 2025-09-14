@@ -5,7 +5,7 @@
 ### Getting started
 
 - To view, run and use this API, please download this repository to your local machine using `git clone` and the URL.
-- Open up your code editor and ensure that you are in the correct working directory for this project locally. In your terminal type `cd Assignment4` or the local file path for this project.
+- Open up your code editor and ensure that you are in the correct working directory for this project locally. In your terminal type `cd Parking-Spotz` or the local file path for this project.
 
 ### Prerequisites
 
